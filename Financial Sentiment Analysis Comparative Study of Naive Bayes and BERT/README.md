@@ -36,14 +36,7 @@ Files included:
 git clone https://github.com/your_github_username/financial-sentiment-analysis.git
 cd financial-sentiment-analysis
 ```
-
-### **2️⃣ Install Dependencies**
-Ensure you have Python `3.8+` and install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-### **3️⃣ Download Pretrained BERT Model**
+### **2️⃣Download Pretrained BERT Model**
 ```bash
 from transformers import BertTokenizer, BertForSequenceClassification
 
