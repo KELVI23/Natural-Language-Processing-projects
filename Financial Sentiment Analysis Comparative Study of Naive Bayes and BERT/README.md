@@ -134,6 +134,6 @@ Pull requests are welcome! Please open an issue first to discuss any changes.
 
 ## ⭐ Support
 If you like this project, **give it a star** ⭐ on GitHub!
-```
+
 
 ---
