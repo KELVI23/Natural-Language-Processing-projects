@@ -51,13 +51,6 @@ model_name = "bert-base-uncased"
 tokenizer = BertTokenizer.from_pretrained(model_name)
 model = BertForSequenceClassification.from_pretrained(model_name, num_labels=3)
 ```
-
-### **4️⃣ Run Jupyter Notebook**
-```bash
-jupyter notebook
-```
-Open `Fin-sentiment.ipynb` and follow along.
-
 ---
 
 ## 🛠 Model Implementation
@@ -141,7 +134,6 @@ Pull requests are welcome! Please open an issue first to discuss any changes.
 
 ## 👨‍💻 Author
 **Kelvin Musodza**  
-📧 Email: [your_email@example.com](mailto:your_email@example.com)  
 🔗 LinkedIn: [linkedin.com/in/kelvinmusodza](https://linkedin.com/in/kelvinmusodza)  
 🐙 GitHub: [KELVI23](https://github.com/KELVI23)  
 
