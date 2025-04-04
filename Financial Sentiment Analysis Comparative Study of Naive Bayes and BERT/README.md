@@ -1,7 +1,5 @@
 # Financial Sentiment Analysis: Naive Bayes vs. BERT
 
-![Financial NLP](https://user-images.githubusercontent.com/your_image_link_here.png)  <!-- Optional: Add a relevant image -->
-
 ## 📌 Overview
 This project explores **sentiment analysis of financial reports** using **Natural Language Processing (NLP)**. We compare the performance of:
 - **Naive Bayes** (Traditional Statistical Model)
